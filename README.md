@@ -1,4 +1,4 @@
-# Traffic-Light-Controller_UG
+# Traffic-Light-Controller
 ## Experiment: Write and Simulate Traffic Light Controller using Verilog HDL and Verify with Testbench
 
 ## Aim
@@ -132,6 +132,7 @@ endmodule
 ```
 
 ## Expected Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f68ebc8a-c6ef-4c6b-933b-d8d38dbd883e" />
 
 
 ## Result
